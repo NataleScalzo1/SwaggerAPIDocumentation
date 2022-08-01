@@ -1,5 +1,4 @@
-module swagger
-
+module github.com/NataleScalzo1/swaggertest
 go 1.18
 
 require (
